@@ -30,8 +30,8 @@
 ---
 
 ## 🎬 시연 영상  
-[Z-World](https://youtu.be/8z7gQVrSdyU)
-[SpellSelector](https://youtu.be/yRzFRZPmPiE)
-[PrizePop](https://youtu.be/Jzfe5zWnLjA)
-[ColorPop](https://youtu.be/8fUqQ-925wI)
+- [Z-World](https://youtu.be/8z7gQVrSdyU)
+- [SpellSelector](https://youtu.be/yRzFRZPmPiE)
+- [PrizePop](https://youtu.be/Jzfe5zWnLjA)
+- [ColorPop](https://youtu.be/8fUqQ-925wI)
 ---
